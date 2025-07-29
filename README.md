@@ -1,4 +1,4 @@
-# deploy-script-hardhat
+# Deploy-script-hardhat
 ## Quranium Smart Contract Deployer
 
 ### Overview
