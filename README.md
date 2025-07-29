@@ -50,7 +50,7 @@ Create a `.env` file in the root directory with the following variables:
 ```env
 MNEMONIC="your QSafe wallet mnemonic phrase"
 QURANIUM_RPC="https://your-quranium-node-url"
-QURANIUM_CHAIN_ID=4062024
+QURANIUM_CHAIN_ID = "Quranium Chain ID"
 ```
 ### Customizing for own contract
 
